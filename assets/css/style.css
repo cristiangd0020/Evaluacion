@@ -1,0 +1,13 @@
+#fondoGaleria{
+    background-color:#417cc4 ;
+    
+}
+
+.tamañoIMG{
+    width: 350px;
+    height:auto;
+}
+
+body{
+    background-color: rgb(234, 247, 247);
+}
